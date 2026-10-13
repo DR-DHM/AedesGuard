@@ -1,0 +1,6 @@
+{
+  "name": "AedesGuard",
+  "description": "AI-powered Aedes mosquito larva identifier, household inspection guide, community heatmaps, and neighborhood alerts for dengue vector prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
